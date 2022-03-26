@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="This is Dov Barak's Home Page!" />
         <p className="description">
-          The real content will hpefully arrive later/
+          The real content will hpefully arrive later </>
     Get started by editing <code>pages/index.js</code>
         </p>
       </main>
